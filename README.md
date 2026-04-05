@@ -1,2 +1,5 @@
-# html-apk-1775380505931
-HTML WebView APK - Google Search
+# Google Search
+
+WebView Android wrapper.
+
+Le build démarre automatiquement via GitHub Actions.
